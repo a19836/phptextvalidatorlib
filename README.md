@@ -14,7 +14,6 @@ It also provides **date and datetime comparisons**, allowing validation of earli
 
 This library is ideal for input validation, form processing, API request validation, and enforcing data integrity across PHP applications.
 
-
 To see a working example, open [index.php](index.php) on your server.
 
 ---
